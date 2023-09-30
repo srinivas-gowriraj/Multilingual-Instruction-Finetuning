@@ -1,5 +1,5 @@
-datasets==2.14.1
-tqdm==4.65.0
-fschat[model_worker,train,webui]==0.2.24
-deepspeed==0.10.0
-vllm==0.1.3
+datasets
+tqdm
+fschat[model_worker,train,webui]
+deepspeed
+vllm
